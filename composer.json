@@ -1,0 +1,9 @@
+{
+    "name": "site/music-blog",
+    "autoload": {
+        "psr-4": {
+            "App": "src/"
+        }
+    },
+    "require": {}
+}
